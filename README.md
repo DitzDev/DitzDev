@@ -15,7 +15,7 @@ I don't know why I'm here, I'm interested in Information technology
 [![whatsapp](https://img.shields.io/badge/whatsapp-085717062467-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085717062467) [![telegram](https://img.shields.io/badge/telegram-DitzSukaMewing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DitzSukaMewing)
 
 ## 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=DitzDev&label=Viewers&color=0e75b6&style=flat)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DitzDev)
