@@ -1,21 +1,27 @@
-# 💫 About Me:
-Beginner programmer... :(, Not Hackers😈🔥
+![Profile Banner](https://files.catbox.moe/kesn3x.jpeg)
 
+# HI! I'm Ditz! 👋
+### I'm Beginner Programmer, Have a dream of a 2 digit salary😔
+
+I don't know why I'm here, I'm interested in Information technology
+
+- 🔭 I'm currently working on [Pixelify](https://github.com/DitzDev/pixelify)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ditzdev.vercel.app)
+
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Android Studio](https://img.shields.io/badge/AndroidStudio-555555?style=for-the-badge&logo=androidstudio&logoColor=white) ![React Native](https://img.shields.io/badge/ReactNative-555555?style=for-the-badge&logo=reactnative&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-555555?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ditz.ofc) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DitzOfc) 
+[![whatsapp](https://img.shields.io/badge/whatsapp-085717062467-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085717062467) [![telegram](https://img.shields.io/badge/telegram-DitzSukaMewing-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DitzSukaMewing)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DitzDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DitzDev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DitzDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DitzDev)
 
----
-[![](https://visitcount.itsvg.in/api?id=DitzDev&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DitzDev&show_icons=true&theme=onedark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DitzDev&layout=compact&theme=onedark)
