@@ -33,4 +33,4 @@ I don't know why I'm here, I'm interested in Information technology
 
 ### 💻 Most Used Languages: 
 
-<img src="https://raw.githubusercontent.com/DitzDev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
+<img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
