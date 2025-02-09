@@ -31,5 +31,5 @@ I don't know why I'm here, I'm interested in Information technology
   </picture>
 </div>
 
-### 💻 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DitzDev&layout=compact&theme=onedark)
+### 💻 Most Used Languages: 
+![](https://raw.githubusercontent.com/DitzDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
