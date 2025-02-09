@@ -17,6 +17,14 @@ I don't know why I'm here, I'm interested in Information technology
 ## 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=DitzDev&label=Viewers&color=0e75b6&style=flat)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
+    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DitzDev)
 
