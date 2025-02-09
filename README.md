@@ -32,4 +32,5 @@ I don't know why I'm here, I'm interested in Information technology
 </div>
 
 ### 💻 Most Used Languages: 
-![](https://raw.githubusercontent.com/DitzDev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<img src="https://raw.githubusercontent.com/DitzDev/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
